@@ -1,3 +1,4 @@
 Weather App
-![weather](https://github.com/user-attachments/assets/fab147f1-b4b1-4140-9757-48000849baef)
+![Screenshot (9)](https://github.com/user-attachments/assets/4be14c24-698e-4a1b-a5dd-e8dc32f6005e)
+
 
